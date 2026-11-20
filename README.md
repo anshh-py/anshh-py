@@ -1,31 +1,45 @@
 ## Sup? 👋
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshanand317@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/www.linkedin.com/in/ansh-a-b582a2422) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshanand317@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-a-b582a2422/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-455A64?style=for-the-badge)
+![Model Validation](https://img.shields.io/badge/Model%20Validation-546E7A?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-607D8B?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-00897B?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge)
 ![Large Language Models](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-4B8BBE?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-7952B3?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-00897B?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-3949AB?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00897B?style=for-the-badge)
 ![Vector Search](https://img.shields.io/badge/Vector%20Search-5C6BC0?style=for-the-badge)
 ![Hybrid Search](https://img.shields.io/badge/Hybrid%20Search-3949AB?style=for-the-badge)
 ![Reranking](https://img.shields.io/badge/Reranking-7E57C2?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6C3483?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-512DA8?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-512DA8?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-5E35B1?style=for-the-badge)
+![Function Calling](https://img.shields.io/badge/Function%20Calling-4527A0?style=for-the-badge)
+![Human in the Loop](https://img.shields.io/badge/Human--in--the--Loop-00897B?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-222222?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615EFF?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge)
 ![OCR](https://img.shields.io/badge/OCR-008080?style=for-the-badge)
@@ -38,8 +52,13 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-455A64?style=for-the-badge)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Alembic](https://img.shields.io/badge/Alembic-333333?style=for-the-badge)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge)
+![JWT Authentication](https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![SSE](https://img.shields.io/badge/Server--Sent%20Events-455A64?style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -58,17 +77,34 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX-333333?style=for-the-badge)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🚗 [Vehicle IQ](https://github.com/anshh-py/Vehicle-IQ)
+AI-powered vehicle intelligence platform featuring vehicle valuation, damage detection, OCR, and market insights.
+
+### 📄 [PageGlance](https://github.com/anshh-py/PageGlance)
+Chrome extension powered by RAG that enables users to ask questions about web pages with context-grounded answers and citations.
+
+### 🚘 [Car World AI](https://github.com/anshh-py/Car-World)
+Automotive-focused AI assistant with LLM integration, conversational memory, tool calling, and model fallback.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anshh-py&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=anshh-py&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshh-py&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
